@@ -1,14 +1,14 @@
 print('hello world')
 
 
-
+print("Hello My name is Aden")
 try:
     myName , myAddress = input("Please your name and address:").split()
 
 
 
     myAge = int(input("Please enter your Age:"))
-    x = "Hello" + 5
+    x = "Hello" + 5 
     print("Your name is: ", myName)
     print("Your age is: ", myAge)
     print("Your address is: ", myAddress)
